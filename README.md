@@ -11,12 +11,18 @@
 
 目录
 =================
-
-   * [awesome-kotlin-android](#awesome-kotlin-android)
+ * [awesome-kotlin-android](#awesome-kotlin-android)
+      * [关于](#关于)
+   * [目录](#目录)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
          * [扩展](#扩展)
+         * [UI](#ui)
+            * [通用库](#通用库)
+            * [动画](#动画)
+            * [Toolbar](#toolbar)
+            * [按钮](#按钮)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
          * [代理](#代理)
@@ -24,10 +30,7 @@
          * [网络](#网络)
          * [日志](#日志)
          * [函数式编程](#函数式编程)
-         * [UI](#ui)
-            * [通用库](#通用库)
-            * [动画](#动画)
-            * [按钮](#按钮)
+         * [下载](#下载)
          * [图片](#图片)
          * [拍照](#拍照)
          * [工具](#工具)
@@ -36,7 +39,7 @@
       * [DEMO](#demo)
       * [书籍](#书籍)
       * [视频](#视频)
-
+      
 ## 开源库
 
 ### 框架
@@ -56,6 +59,25 @@
 * [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级Kotlin 扩展插件库
 * [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) 有用的扩展方法集合
 * [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - 又一个轻量级Kotlin 扩展插件库
+
+### UI
+
+#### 通用库
+
+* [anvil](https://github.com/zserge/anvil) - 一个受React启发的Android的最小UI库
+
+#### 动画
+
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
+* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
+
+#### Toolbar
+
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) - 大名鼎鼎的Yalantis出品，炫酷 toolbar 实现
+
+#### 按钮
+
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
 
 ### 依赖注入
 
@@ -88,19 +110,9 @@
 
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava 的 kotlin实现
 
-### UI
+### 下载
 
-#### 通用库
-
-* [anvil](https://github.com/zserge/anvil) - 一个受React启发的Android的最小UI库
-
-#### 动画
-
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
-
-#### 按钮
-
-* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
+[RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具
 
 ### 图片
 
@@ -139,11 +151,13 @@
 * [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
 * [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
 
 
 ## DEMO
 
 * [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子
+* [android-topeka](https://github.com/googlesamples/android-topeka) - google 官方 material design 示例应用
 
 
 ## 书籍
