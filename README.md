@@ -9,8 +9,7 @@
 
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，书籍，博客，教程等高质量资源的集合
 
-目录
-=================
+## 目录
  * [awesome-kotlin-android](#awesome-kotlin-android)
       * [关于](#关于)
    * [目录](#目录)
@@ -35,11 +34,19 @@
          * [拍照](#拍照)
          * [工具](#工具)
          * [其他](#其他)
+
       * [完整 app](#完整-app)
+
       * [DEMO](#demo)
+
       * [书籍](#书籍)
+
       * [视频](#视频)
-      
+
+         ​
+
+
+
 ## 开源库
 
 ### 框架
@@ -69,15 +76,36 @@
 #### 动画
 
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
+  </div>
+
 * [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="30%">
+  </div>
 
 #### Toolbar
 
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) - 大名鼎鼎的Yalantis出品，炫酷 toolbar 实现
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) - Yalantis出品，必属精品！炫酷 toolbar 实现
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%">
+  </div>
 
 #### 按钮
 
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
+
+  **效果图**:
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
+  </div>
 
 ### 依赖注入
 
@@ -136,33 +164,115 @@
 * [MapMe](https://github.com/TradeMe/MapMe) - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。
 
 
+
 ## 完整 app
 
-* [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
-* [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
-* [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
-* [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
-* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
-* [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
-* [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
-* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
-* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
-* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
+- [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
+
+  **效果图**：
+
+  <div style="display:flex;">
+  <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-222037.jpg?imageView/2/w/300/q/90" width="30%">
+  <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-221942.jpg?imageView/2/w/300/q/90" width="30%">
+  </div>
+
+- [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
+
+  **效果图**：
+  
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
+  </div>
+
+- [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
+
+- [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
+
+- [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
+
+  **效果图**：
+  ![image](https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png)
+
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
+
+- [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
+
+  **效果图**:
+
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%">
+  </div>
+
+- [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+  </div>
+
+- [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+  </div>
+
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+  </div>
+
+- [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+  </div>
+
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
+
+- [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
+
+  **效果图**：
+  
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic1.png" width="30%">
+  <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic2.png" width="30%">
+  </div>
+
+- [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
+
+  **效果图**：
+  ![image](https://github.com/marktony/FanfouHandpick/raw/master/screenshots/0.png)
+
+
 
 
 ## DEMO
 
 * [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子
+
 * [android-topeka](https://github.com/googlesamples/android-topeka) - google 官方 material design 示例应用
+
+  **效果图**:
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="30%">
+  <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="30%">
+  </div>
 
 
 ## 书籍
 
 * [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
+
+  ​
 
 
 ## 视频
