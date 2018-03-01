@@ -10,9 +10,7 @@
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，书籍，博客，教程等高质量资源的集合
 
 ## 目录
- * [awesome-kotlin-android](#awesome-kotlin-android)
-      * [关于](#关于)
-   * [目录](#目录)
+  * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
@@ -21,6 +19,7 @@
             * [通用库](#通用库)
             * [动画](#动画)
             * [Toolbar](#toolbar)
+            * [选择/过滤器](#选择过滤器)
             * [按钮](#按钮)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
@@ -97,6 +96,21 @@
   <div style="display:flex;">
   <img alt="image" src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%">
   </div>
+  
+#### 选择/过滤器
+
+* [SearchFilter](https://github.com/Yalantis/SearchFilter) - Yalantis出品，必属精品！炫酷 搜索过滤器 实现
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="30%">
+  </div>
+* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Yalantis出品，必属精品！炫酷 多选器实现
+
+  **效果图**：
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%">
+  </div>
 
 #### 按钮
 
@@ -167,7 +181,7 @@
 
 ## 完整 app
 
-- [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
+* [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
 
   **效果图**：
 
@@ -176,7 +190,7 @@
   <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-221942.jpg?imageView/2/w/300/q/90" width="30%">
   </div>
 
-- [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
+* [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
 
   **效果图**：
   
@@ -184,18 +198,18 @@
   <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
   </div>
 
-- [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
+* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
 
-- [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
+* [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
 
-- [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
+* [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
 
   **效果图**：
   ![image](https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png)
 
-- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
 
-- [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
+* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
 
   **效果图**:
 
@@ -204,7 +218,7 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%">
   </div>
 
-- [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
+* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
 
   **效果图**：
   <div style="display:flex;">
@@ -212,7 +226,7 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
   </div>
 
-- [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
+* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
 
   **效果图**：
   <div style="display:flex;">
@@ -220,7 +234,7 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
   </div>
 
-- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
 
   **效果图**：
   <div style="display:flex;">
@@ -228,7 +242,7 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
   </div>
 
-- [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
+* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
 
   **效果图**：
   <div style="display:flex;">
@@ -236,9 +250,9 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
   </div>
 
-- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
 
-- [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
+* [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
 
   **效果图**：
   
@@ -247,12 +261,20 @@
   <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic2.png" width="30%">
   </div>
 
-- [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
+* [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
 
   **效果图**：
   ![image](https://github.com/marktony/FanfouHandpick/raw/master/screenshots/0.png)
 
+* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) - 数据来源自开眼视频的客户端
 
+  **效果图**：
+
+  ![image](https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
+
+* [tivi](https://github.com/chrisbanes/tivi) - 电视节目跟踪 APP
+
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - （闪电浏览器）是体积小巧的高性能浏览器
 
 
 ## DEMO
@@ -271,8 +293,6 @@
 ## 书籍
 
 * [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
-
-  ​
 
 
 ## 视频
