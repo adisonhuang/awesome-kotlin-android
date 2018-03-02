@@ -22,6 +22,7 @@
             * [选择/过滤器](#选择过滤器)
             * [按钮](#按钮)
             * [特殊效果](#特殊效果)
+            * [其他](#其他)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
          * [代理](#代理)
@@ -111,6 +112,12 @@
   <div style="display:flex;">
   <img alt="image" src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%">
   </div>
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
+
+  **效果图**:
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="30%">
+  </div>
 
 #### 按钮
 
@@ -137,11 +144,21 @@
   <div style="display:flex;">
   <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
   </div>
+#### 其他
+
+* [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - 一个体验 [adaptive icons](https://github.com/nickbutcher/AdaptiveIconPlayground)效果的应用
+
+  **效果图**:
+
+  ![image](https://github.com/nickbutcher/AdaptiveIconPlayground/raw/master/screenshots/adaptive-icon-playground-demo.webp)
+
+
 ### 依赖注入
 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架
 * [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数
+* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。
 
 ### 数据绑定
 
@@ -215,16 +232,10 @@
   <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
   </div>
 
-* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
-
-* [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
-
 * [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
 
   **效果图**：
   ![image](https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png)
-
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
 
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
 
@@ -267,8 +278,6 @@
   <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
   </div>
 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
-
 * [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
 
   **效果图**：
@@ -289,16 +298,29 @@
 
   ![image](https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
 
+* [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018) - [DroidKaigi 2018](https://droidkaigi.jp/2018/en/)官方 app
+
+  **效果图**：
+
+   <div style="display:flex;">
+  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_sessions.png" width="30%">
+  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_search.png" width="30%">
+  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_session_detail.png" width="30%">
+  </div>
+
+*  [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
+
+* [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器
 * [tivi](https://github.com/chrisbanes/tivi) - 电视节目跟踪 APP
 
 * [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - （闪电浏览器）是体积小巧的高性能浏览器
+
 * [Voice](https://github.com/PaulWoitaschek/Voice) - 有声电子书阅读器
+* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端
 
 
 ## DEMO
-
-* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子
-
 * [android-topeka](https://github.com/googlesamples/android-topeka) - google 官方 material design 示例应用
 
   **效果图**:
@@ -306,6 +328,9 @@
   <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="30%">
   <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="30%">
   </div>
+* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子
+
+* [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - kotlin 全栈开发应用例子，包括前端和后台
 
 
 ## 书籍
