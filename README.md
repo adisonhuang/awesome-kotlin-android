@@ -10,7 +10,7 @@
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，书籍，博客，教程等高质量资源的集合
 
 ## 目录
-  * [awesome-kotlin-android](#awesome-kotlin-android)
+   * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
@@ -21,6 +21,7 @@
             * [Toolbar](#toolbar)
             * [选择/过滤器](#选择过滤器)
             * [按钮](#按钮)
+            * [特殊效果](#特殊效果)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
          * [代理](#代理)
@@ -43,7 +44,6 @@
       * [视频](#视频)
 
          ​
-
 
 
 ## 开源库
@@ -120,7 +120,23 @@
   <div style="display:flex;">
   <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
   </div>
+  
+#### 特殊效果
 
+* [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
+
+  **效果图**:
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
+  <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
+  </div>
+
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
+
+  **效果图**:
+  <div style="display:flex;">
+  <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+  </div>
 ### 依赖注入
 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架
@@ -170,6 +186,7 @@
 
 * [fakeit](https://github.com/moove-it/fakeit) - 假数据生成库
 * [debug-bottle](https://github.com/kiruto/debug-bottle) - Android 开发调试工具
+* [detekt](https://github.com/arturbosch/detekt) - 静态代码分析工具
 
 ### 其他
 
@@ -275,6 +292,7 @@
 * [tivi](https://github.com/chrisbanes/tivi) - 电视节目跟踪 APP
 
 * [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - （闪电浏览器）是体积小巧的高性能浏览器
+* [Voice](https://github.com/PaulWoitaschek/Voice) - 有声电子书阅读器
 
 
 ## DEMO
