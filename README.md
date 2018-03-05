@@ -307,6 +307,55 @@
   <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_search.png" width="30%">
   <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_session_detail.png" width="30%">
   </div>
+* [susi_android](https://github.com/fossasia/susi_android) - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案
+
+  **效果图**：
+
+   <div style="display:flex;">
+  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/message.png" width="30%">
+  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/voice_input.png" width="30%">
+  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/skills.png" width="30%">
+  </div>
+  
+* [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
+
+  **效果图**：
+
+   <div style="display:flex;">
+  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
+  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
+  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
+  </div>
+  
+* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
+
+  **效果图**：
+
+   <div style="display:flex;">
+  <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
+  </div>
+  
+* [CatchUp](https://github.com/hzsweers/CatchUp) - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP
+
+  **效果图**：
+  ![image](https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png)
+  
+* [code-reader](https://github.com/loopeer/code-reader) - 代码阅读器，支持多种语言
+
+  **效果图**：
+
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_day.gif" width="30%">
+  <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_night.gif" width="30%">
+  </div>
+
+* [Ribble](https://github.com/armcha/Ribble) - Dribbble客户端
+
+  **效果图**：
+
+  <div style="display:flex;">
+  <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
+  </div>
 
 *  [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
 
