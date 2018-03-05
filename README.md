@@ -44,7 +44,9 @@
 
       * [视频](#视频)
 
-         ​
+```
+点击 ► 展示效果图
+```
 
 
 ## 开源库
@@ -77,82 +79,75 @@
 #### 动画
 
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
+   </details>
 
 * [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
+   </details>
 
 #### Toolbar
 
 * [JellyToolbar](https://github.com/Yalantis/JellyToolbar) - Yalantis出品，必属精品！炫酷 toolbar 实现
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="50%">
+   </details>
   
 #### 选择/过滤器
 
 * [SearchFilter](https://github.com/Yalantis/SearchFilter) - Yalantis出品，必属精品！炫酷 搜索过滤器 实现
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="50%">
+   </details>
+   
 * [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Yalantis出品，必属精品！炫酷 多选器实现
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="50%">
+   </details>
 
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="30%">
-  </div>
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
-
-  **效果图**:
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
+   </details>
 
 #### 按钮
 
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
+   </details>
 
-  **效果图**:
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
-  </div>
-  
 #### 特殊效果
 
 * [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
-
-  **效果图**:
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
-  <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
+   </details>
 
 * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
-
-  **效果图**:
-  <div style="display:flex;">
-  <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+   </details>
+   
 #### 其他
 
 * [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - 一个体验 [adaptive icons](https://github.com/nickbutcher/AdaptiveIconPlayground)效果的应用
-
-  **效果图**:
-
-  ![image](https://github.com/nickbutcher/AdaptiveIconPlayground/raw/master/screenshots/adaptive-icon-playground-demo.webp)
-
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/nickbutcher/AdaptiveIconPlayground/raw/master/screenshots/adaptive-icon-playground-demo.webp" width="30%">
+   </details>
 
 ### 依赖注入
 
@@ -218,146 +213,145 @@
 [back to top](#readme) 
 
 * [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
-
-  **效果图**：
-
-  <div style="display:flex;">
-  <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-222037.jpg?imageView/2/w/300/q/90" width="30%">
-  <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-221942.jpg?imageView/2/w/300/q/90" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-222037.jpg?imageView/2/w/300/q/90" width="30%">
+    <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-221942.jpg?imageView/2/w/300/q/90" width="30%">
+    </div>
+   </details>
 
 * [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
-
-  **效果图**：
-  
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
+    </div>
+   </details>
 
 * [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
-
-  **效果图**：
-  ![image](https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png)
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png" width="80%">
+    </div>
+   </details>
 
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
-
-  **效果图**:
-
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%">
+    </div>
+   </details>
 
 * [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
 
 * [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+    </div>
+   </details>
 
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
 
 * [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
-
-  **效果图**：
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-  <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+    </div>
+   </details>
 
 * [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
-
-  **效果图**：
-  
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic1.png" width="30%">
-  <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic2.png" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic1.png" width="30%">
+    <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic2.png" width="30%">
+    </div>
+   </details>
 
 * [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
-
-  **效果图**：
-  ![image](https://github.com/marktony/FanfouHandpick/raw/master/screenshots/0.png)
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/marktony/FanfouHandpick/raw/master/screenshots/0.png" width="30%">
+    </div>
+   </details>
 
 * [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) - 数据来源自开眼视频的客户端
-
-  **效果图**：
-
-  ![image](https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="80%">
+   </details>
 
 * [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018) - [DroidKaigi 2018](https://droidkaigi.jp/2018/en/)官方 app
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_sessions.png" width="30%">
+    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_search.png" width="30%">
+    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_session_detail.png" width="30%">
+    </div>
+   </details>
 
-  **效果图**：
-
-   <div style="display:flex;">
-  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_sessions.png" width="30%">
-  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_search.png" width="30%">
-  <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_session_detail.png" width="30%">
-  </div>
 * [susi_android](https://github.com/fossasia/susi_android) - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案
-
-  **效果图**：
-
-   <div style="display:flex;">
-  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/message.png" width="30%">
-  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/voice_input.png" width="30%">
-  <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/skills.png" width="30%">
-  </div>
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/message.png" width="30%">
+    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/voice_input.png" width="30%">
+    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/skills.png" width="30%">
+    </div>
+   </details>
   
 * [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
-
-  **效果图**：
-
-   <div style="display:flex;">
-  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
-  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
-  <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
-  </div>
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
+    </div>
+    </details>
   
 * [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
-
-  **效果图**：
-
-   <div style="display:flex;">
-  <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
-  </div>
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
+      </div>
+    </details>
   
 * [CatchUp](https://github.com/hzsweers/CatchUp) - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP
 
-  **效果图**：
-  ![image](https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png)
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png" width="80%">
+    </div>
+    </details>
   
 * [code-reader](https://github.com/loopeer/code-reader) - 代码阅读器，支持多种语言
-
-  **效果图**：
-
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_day.gif" width="30%">
-  <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_night.gif" width="30%">
-  </div>
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+      <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_day.gif" width="30%">
+      <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_night.gif" width="30%">
+      </div>
+    </details>
 
 * [Ribble](https://github.com/armcha/Ribble) - Dribbble客户端
 
-  **效果图**：
-
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
-  </div>
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
+    </div>
+    </details>
 
 *  [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP
 
@@ -376,11 +370,13 @@
 
 * [android-topeka](https://github.com/googlesamples/android-topeka) - google 官方 material design 示例应用
 
-  **效果图**:
-  <div style="display:flex;">
-  <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="30%">
-  <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="30%">
-  </div>
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="30%">
+    <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="30%">
+    </div>
+    </details>
+
 * [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子
 
 * [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - kotlin 全栈开发应用例子，包括前端和后台
