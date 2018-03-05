@@ -7,7 +7,7 @@
 
 ## 关于
 
- 本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，书籍，博客，教程等高质量资源的集合
+ 本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合
 
 ## 目录
    * [awesome-kotlin-android](#awesome-kotlin-android)
@@ -40,9 +40,7 @@
 
       * [DEMO](#demo)
 
-      * [书籍](#书籍)
-
-      * [视频](#视频)
+      * [资料](#资料)
 
 ```
 点击 ► 展示效果图
@@ -382,16 +380,12 @@
 * [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - kotlin 全栈开发应用例子，包括前端和后台
 
 
-## 书籍
+## 资料
 [back to top](#readme) 
 
 * [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
-
-
-## 视频
-[back to top](#readme) 
-
 * [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - Kotlin 视频教程
+
 
 
 
