@@ -10,6 +10,7 @@
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合
 
 ## 目录
+
    * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
@@ -17,10 +18,13 @@
          * [扩展](#扩展)
          * [UI](#ui)
             * [通用库](#通用库)
+            * [Fragment](#fragment)
             * [动画](#动画)
             * [Toolbar](#toolbar)
             * [选择/过滤器](#选择过滤器)
             * [按钮](#按钮)
+            * [进度条](#进度条)
+            * [指示器](#指示器)
             * [特殊效果](#特殊效果)
             * [其他](#其他)
          * [依赖注入](#依赖注入)
@@ -29,17 +33,15 @@
          * [数据库](#数据库)
          * [网络](#网络)
          * [日志](#日志)
+         * [JSON](#json)
          * [函数式编程](#函数式编程)
          * [下载](#下载)
          * [图片](#图片)
          * [拍照](#拍照)
          * [工具](#工具)
-         * [其他](#其他)
-
+         * [其他](#其他-1)
       * [完整 app](#完整-app)
-
       * [DEMO](#demo)
-
       * [资料](#资料)
 
 ```
@@ -78,6 +80,10 @@
 #### 通用库
 
 * [anvil](https://github.com/zserge/anvil) - 一个受React启发的Android的最小UI库 🔥🔥🔥🔥
+
+#### Fragment
+
+* [FragNav](https://github.com/ncapdevi/FragNav) - 管理多个fragment 栈的库 🔥🔥🔥
 
 #### 动画
 * [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
@@ -127,6 +133,22 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
    </details>
+
+#### 进度条
+
+* [fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) - 带有弹出式气泡的滑块进度条
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid-slider.gif" width="30%">
+   </details>
+   
+#### 指示器
+
+* [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/rbro112/Android-Indefinite-Pager-Indicator/raw/master/readme_assets/preview.gif" width="30%">
+   </details>   
 
 #### 特殊效果
 
@@ -178,6 +200,10 @@
 ### 日志
 
 * [timberkt](https://github.com/ajalt/timberkt) - 基于Timber的日志库 🔥
+
+### JSON
+
+* [klaxon](https://github.com/cbeust/klaxon) - json 解析器🔥🔥🔥
 
 ### 函数式编程
 
