@@ -11,7 +11,7 @@
 
 ## 目录
 
-   * [awesome-kotlin-android](#awesome-kotlin-android)
+ * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
@@ -38,6 +38,7 @@
          * [下载](#下载)
          * [图片](#图片)
          * [拍照](#拍照)
+         * [指纹](#指纹)
          * [工具](#工具)
          * [其他](#其他-1)
       * [完整 app](#完整-app)
@@ -221,9 +222,14 @@
 
 * [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) - 友好的相机库 🔥🔥🔥🔥🔥
 
+### 指纹
+
+* [FingerprintManager](https://github.com/JesusM/FingerprintManager) - 简单的指纹处理库 🔥🔥🔥
+
 ### 工具
 * [debug-bottle](https://github.com/kiruto/debug-bottle) - Android 开发调试工具 🔥🔥🔥
 * [detekt](https://github.com/arturbosch/detekt) - 静态代码分析工具 🔥🔥🔥
+* [Time](https://github.com/kizitonwose/Time) - 类型安全的时间库 🔥🔥🔥
 * [fakeit](https://github.com/moove-it/fakeit) - 假数据生成库 🔥🔥
 
 ### 其他
@@ -331,6 +337,16 @@
     </div>
     </details>
     
+* [Mango](https://github.com/TonnyL/Mango) - Dribbble客户端
+
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/TonnyL/Mango/raw/master/art/Get-Started.png" width="30%">
+    <img alt="image" src="https://github.com/TonnyL/Mango/raw/master/art/Main.png" width="30%">
+    <img alt="image" src="https://github.com/TonnyL/Mango/raw/master/art/Shot.png" width="30%">
+    </div>
+    </details>    
+    
 * [CatchUp](https://github.com/hzsweers/CatchUp) - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP
 
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -338,6 +354,8 @@
     <img alt="image" src="https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png" width="80%">
     </div>
     </details>
+ 
+* [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) - Reddit客户端
     
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
    <details><summary><code>效果图</code>🔥🔥</summary>
