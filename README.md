@@ -10,8 +10,7 @@
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合
 
 ## 目录
-
- * [awesome-kotlin-android](#awesome-kotlin-android)
+   * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
@@ -41,9 +40,12 @@
          * [指纹](#指纹)
          * [工具](#工具)
          * [其他](#其他-1)
+         * [序列化](#序列化)
+         * [测试](#测试)
       * [完整 app](#完整-app)
       * [DEMO](#demo)
       * [资料](#资料)
+      * [其他](#其他-2)
 
 ```
  100+ Stars: 🔥
@@ -63,6 +65,13 @@
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
 * [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
 * [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
+
+* [kotlin-android-starter](https://github.com/androidstarters/kotlin-android-starter) - 快速生成的android项目模板，基于MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito🔥🔥
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/9172c7b3b586bb8599d25e0275b61a1d54e7a2ed/687474703a2f2f672e7265636f726469742e636f2f4c3573656c67376149762e676966" width="30%">
+    <img alt="image" src="https://camo.githubusercontent.com/60f78409e29c214d20edd3e6bd7e59594072af0d/687474703a2f2f672e7265636f726469742e636f2f7874346f3577547953632e676966" width="50%">
+   </details>
 
 ### DSL
 * [anko](https://github.com/Kotlin/anko) - JetBrains 官方为Android编写的 DSL，旨在令开发 Android 更快更简单 🔥🔥🔥🔥🔥
@@ -126,6 +135,13 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
    </details>
+   
+* [DateTimeRangePicker](https://github.com/skedgo/DateTimeRangePicker) - 日期时间范围选择器
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/skedgo/DateTimeRangePicker/raw/master/images/Screenshot_1482250219.png" width="30%">
+    <img alt="image" src="https://github.com/skedgo/DateTimeRangePicker/raw/master/images/Screenshot_1482250231.png" width="30%">
+   </details>      
 
 #### 按钮
 
@@ -149,7 +165,7 @@
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/rbro112/Android-Indefinite-Pager-Indicator/raw/master/readme_assets/preview.gif" width="30%">
-   </details>   
+   </details> 
 
 #### 特殊效果
 
@@ -236,6 +252,12 @@
 * [MapMe](https://github.com/TradeMe/MapMe) - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥
 * [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
 * [paperparcel](https://github.com/grandstaish/paperparcel) - 自动生成Parcelable 代码的注解处理器 🔥🔥
+
+### 序列化
+* [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - 跨平台序列化库。🔥🔥
+
+### 测试
+* [Barista](https://github.com/SchibstedSpain/Barista) - 基于Espresso的 UI 测试框架。🔥🔥
 
 
 ## 完整 app
@@ -354,9 +376,11 @@
     <img alt="image" src="https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png" width="80%">
     </div>
     </details>
- 
-* [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) - Reddit客户端
-    
+
+* [KedditBySteps](https://github.com/juanchosaravia/KedditBySteps) - Reddit客户端 🔥🔥🔥
+
+* [Murmur](https://github.com/nekocode/Murmur) - 第三方豆瓣 FM 红心频道播放器🔥🔥
+  
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
    <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -427,6 +451,11 @@
 
 * [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) 🔥🔥🔥🔥🔥
 * [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - Kotlin 视频教程 🔥🔥🔥🔥🔥
+
+## 其他
+[back to top](#readme) 
+
+* [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) - Xposed插件，致力于让用户彻底掌控微信上的聊天消息及朋友圈内容，支持微信 6.5.3 及以上版本 🔥🔥🔥
 
 
 
