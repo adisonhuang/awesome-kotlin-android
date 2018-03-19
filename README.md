@@ -10,6 +10,7 @@
  本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合
 
 ## 目录
+
    * [awesome-kotlin-android](#awesome-kotlin-android)
       * [开源库](#开源库)
          * [框架](#框架)
@@ -23,8 +24,10 @@
             * [选择/过滤器](#选择过滤器)
             * [按钮](#按钮)
             * [进度条](#进度条)
+            * [通知/提醒](#通知提醒)
             * [指示器](#指示器)
             * [特殊效果](#特殊效果)
+            * [日历](#日历)
             * [其他](#其他)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
@@ -158,7 +161,17 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid-slider.gif" width="30%">
    </details>
-   
+
+#### 通知/提醒
+
+* [Light](https://github.com/TonnyL/Light) - 优雅通用的 Snackbar
+    <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/TonnyL/Light/raw/master/images/success.png" width="30%">
+     <img alt="image" src="https://github.com/TonnyL/Light/raw/master/images/info.png" width="30%">
+     <img alt="image" src="https://github.com/TonnyL/Light/raw/master/images/warning.png" width="30%">
+      </details>
+
 #### 指示器
 
 * [Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) -用于RecyclerView或ViewPager的轻量级、即插即用无限页面指示器
@@ -180,6 +193,14 @@
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+   </details>
+
+#### 日历
+
+* [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) - 轻量级日历
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://cloud.githubusercontent.com/assets/21093614/18807459/a6692ca4-8282-11e6-921d-1ea46c545ed4.gif" width="30%">
    </details>
    
 #### 其他
@@ -216,6 +237,7 @@
 
 ### 日志
 
+* [OkLog](https://github.com/simonpercic/OkLog) - OkHttp的网络日志拦截器 🔥🔥
 * [timberkt](https://github.com/ajalt/timberkt) - 基于Timber的日志库 🔥
 
 ### JSON
@@ -463,3 +485,7 @@
 
 
 
+
+```
+
+```
