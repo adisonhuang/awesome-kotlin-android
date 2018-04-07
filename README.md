@@ -153,6 +153,11 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
    </details>
+* [StickySwitch](https://github.com/GwonHyeok/StickySwitch) - 漂亮的切换开关
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif" width="30%">
+   </details>   
 
 #### 进度条
 
@@ -234,6 +239,7 @@
 ### 网络
 
 * [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库 🔥🔥🔥🔥
+* [http4k](https://github.com/http4k/http4k) - HTTP 工具包 🔥🔥
 
 ### 日志
 
@@ -269,6 +275,7 @@
 * [detekt](https://github.com/arturbosch/detekt) - 静态代码分析工具 🔥🔥🔥
 * [Time](https://github.com/kizitonwose/Time) - 类型安全的时间库 🔥🔥🔥
 * [fakeit](https://github.com/moove-it/fakeit) - 假数据生成库 🔥🔥
+* [RxPay](https://github.com/Cuieney/RxPay) - 一个集成支付宝微信的支付工具  🔥🔥
 
 ### 其他
 * [MapMe](https://github.com/TradeMe/MapMe) - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥
@@ -408,6 +415,14 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
+
+* [Twobbble](https://github.com/550609334/Twobbble) - Dribbble客户端
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/550609334/Twobbble/raw/master/image/image1.png?raw=true" width="30%">
+    <img alt="image" src="https://github.com/550609334/Twobbble/raw/master/image/image2.png?raw=true" width="30%">
     </div>
    </details>
 
